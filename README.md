@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tristan</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">A passionate full-stack developer from South Africa</h3>
 
 - 🔭 I’m currently working on [Echo](https://github.com/COS301-SE-2024/ECHO)
 
